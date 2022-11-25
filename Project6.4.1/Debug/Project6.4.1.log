@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\38068\Documents\Microsoft Visual Studio\Project6.4.1\Project6.4.1\Source.cpp(21,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\38068\Documents\Microsoft Visual Studio\Project6.4.1\Project6.4.1\Source.cpp(24,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\38068\Documents\Microsoft Visual Studio\Project6.4.1\Project6.4.1\Source.cpp(32,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\38068\Documents\Microsoft Visual Studio\Project6.4.1\Project6.4.1\Source.cpp(35,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\38068\Documents\Microsoft Visual Studio\Project6.4.1\Project6.4.1\Source.cpp(56,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\38068\Documents\Microsoft Visual Studio\Project6.4.1\Project6.4.1\Source.cpp(68,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\38068\Documents\Microsoft Visual Studio\Project6.4.1\Project6.4.1\Source.cpp(131,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\38068\Documents\Microsoft Visual Studio\Project6.4.1\Project6.4.1\Source.cpp(132,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\38068\Documents\Microsoft Visual Studio\Project6.4.1\Project6.4.1\Source.cpp(155,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\38068\Documents\Microsoft Visual Studio\Project6.4.1\Project6.4.1\Source.cpp(157,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project6.4.1.vcxproj -> C:\Users\38068\Documents\Microsoft Visual Studio\Project6.4.1\Debug\Project6.4.1.exe
